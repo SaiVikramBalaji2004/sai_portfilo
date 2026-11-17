@@ -24,7 +24,7 @@
   <br/>
 
   <!-- Custom Live Radar & CAN Bus Telemetry Animation -->
-  <img src="./gemini-svg.svg" alt="Embedded Telemetry Animation" width="100%" />
+  <img src="./anime.svg" alt="Embedded Telemetry Animation" width="100%" />
 
 </div>
 
