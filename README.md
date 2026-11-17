@@ -19,12 +19,12 @@
   </p>
 
   <!-- Project Hero Illustration -->
-  <img src="./project-banner.png" alt="Cybernetic Surveillance Rover & Marine Radar CAN System Banner" width="100%" />
+  <img src="./image.png" alt="Cybernetic Surveillance Rover & Marine Radar CAN System Banner" width="100%" />
 
   <br/>
 
   <!-- Custom Live Radar & CAN Bus Telemetry Animation -->
-  <img src="./telemetry-animation.svg" alt="Embedded Telemetry Animation" width="100%" />
+  <img src="./gemini-svg.svg" alt="Embedded Telemetry Animation" width="100%" />
 
 </div>
 
